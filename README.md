@@ -1,2 +1,2 @@
 # cosmoventures
-Cosmoventures zebsite
+Cosmoventures website
